@@ -44,7 +44,7 @@ Below are the results of the following before and after the change to Thomas Hig
     - Since the change is only related to the 9th grade scores we can see that the score for 9th grade is shown as NaN for Thomas High School for both Math and Reading 
     Math scores by grade-
     
-    <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520407-a1bb24f2-5cce-40b7-b90f-a613c6c7bddd.png">
+    <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520909-5f37d4e8-92f7-4f17-a507-3f7ad8c73a84.png">
     
     Reading scores by grade -
     
@@ -56,8 +56,6 @@ Below are the results of the following before and after the change to Thomas Hig
    - When we look at the data of size summary there is a change to the "Medium(1000-1999)" range size bin at the 100ths place. However when we format the data we dont      see this difference.
 - Effect of change on "Type summary"
    - When we look at the data of type summary there is a change to the "Charter" school type bin at the 100ths place. However when we format the data we dont see this      difference.
-
-## Challenge Overview
 
 ## Challenge Summary
 Finally when we take a close look at the data there is slight change to the passing percentages of District summary, spending summary,size summary and type summary at the 100ths place. However there is vast difference in these percentages at the school summary level for Thomas High School as well as increase in the performance of this school . The grade level data for 9th grade for Thomas High School has been updated to NaN.
