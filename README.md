@@ -45,9 +45,11 @@ Below are the results of the following before and after the change to Thomas Hig
     Math scores by grade-
     
     <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520407-a1bb24f2-5cce-40b7-b90f-a613c6c7bddd.png">
+    
     Reading scores by grade -
     
-    <img width="650" alt="image" src="https://user-images.githubusercontent.com/104597335/171520447-89b53aca-68e9-4d2c-9951-1acf2d827fcf.png">
+  <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520763-83c21607-6725-4a30-a79e-44f2cd5e83ce.png">
+
 - Effect of change on "Spending summary"
    - When we look at the data of spening summary there is a change to the "$631-645" range spending bin at the 100ths place. However when we format the data we dont        see this difference.
 - Effect of change on "Size summary"
