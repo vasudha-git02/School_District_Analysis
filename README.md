@@ -22,16 +22,18 @@ Below are the results of the following before and after the change to Thomas Hig
 - District summary
    - The image of the district summary before the change is as below
    
-     <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520109-bf2e4374-2e18-4dfa-8f02-09bae8f5ed45.png">
+     <img width="700" alt="image" src="https://user-images.githubusercontent.com/104597335/171520109-bf2e4374-2e18-4dfa-8f02-09bae8f5ed45.png">
    - The image of the district summary after the changes is as below
    
-     <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520137-35102b7e-1233-48b3-a81b-8dcb900f9858.png">
+     <img width="700" alt="image" src="https://user-images.githubusercontent.com/104597335/171520137-35102b7e-1233-48b3-a81b-8dcb900f9858.png">
     As we can see from the images there is no change to the number of schools, total students and budget as expected since there is no change to the schools, students     and budget. However there is a slight variation to the passing math %, passing reading % and overall passing percentage.
 - School summary
     - The image of school summary in particular to Thomas High School before the change is as follows
-      <img width="499" alt="image" src="https://user-images.githubusercontent.com/104597335/171520292-8e5d2a0b-55fa-4d96-b400-0abe8255cc7f.png">
+    
+      <img width="700" alt="image" src="https://user-images.githubusercontent.com/104597335/171520292-8e5d2a0b-55fa-4d96-b400-0abe8255cc7f.png">
     - The image of school summary in articular to Thomas High School after the change is as follows. 
-      <img width="498" alt="image" src="https://user-images.githubusercontent.com/104597335/171520343-8f869e37-1b34-440e-8081-3ba651e8d5ed.png">
+    
+      <img width="700" alt="image" src="https://user-images.githubusercontent.com/104597335/171520343-8f869e37-1b34-440e-8081-3ba651e8d5ed.png">
     As we can see from the images there is no change to the type of school. the number of students and the budget as expected. But there is a vast change to the           passing math , reading and overall passing percentages
 - Change of performance for Thomas High School before and after change is as follows
     - Passing math percentage before the change was 66.91% and after the change was 93.86%
@@ -45,7 +47,7 @@ Below are the results of the following before and after the change to Thomas Hig
     <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520407-a1bb24f2-5cce-40b7-b90f-a613c6c7bddd.png">
     Reading scores by grade -
     
-    <img width="600" alt="image" src="https://user-images.githubusercontent.com/104597335/171520447-89b53aca-68e9-4d2c-9951-1acf2d827fcf.png">
+    <img width="650" alt="image" src="https://user-images.githubusercontent.com/104597335/171520447-89b53aca-68e9-4d2c-9951-1acf2d827fcf.png">
 - Effect of change on "Spending summary"
    - When we look at the data of spening summary there is a change to the "$631-645" range spending bin at the 100ths place. However when we format the data we dont        see this difference.
 - Effect of change on "Size summary"
